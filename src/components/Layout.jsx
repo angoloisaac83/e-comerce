@@ -87,7 +87,7 @@ const Layout = ({ children }) => {
               <nav className="flex flex-col space-y-2">
                 <Link to="/" className="px-2 py-1 text-gray-700 hover:text-indigo-600">Home</Link>
               </nav>
-            </div>
+            </div> 
           )}
         </div>
       </header>
