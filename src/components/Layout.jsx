@@ -86,10 +86,6 @@ const Layout = ({ children }) => {
               </form>
               <nav className="flex flex-col space-y-2">
                 <Link to="/" className="px-2 py-1 text-gray-700 hover:text-indigo-600">Home</Link>
-                <Link to="/" className="px-2 py-1 text-gray-700 hover:text-indigo-600">Shop</Link>
-                <Link to="/" className="px-2 py-1 text-gray-700 hover:text-indigo-600">Categories</Link>
-                <Link to="/" className="px-2 py-1 text-gray-700 hover:text-indigo-600">About</Link>
-                <Link to="/" className="px-2 py-1 text-gray-700 hover:text-indigo-600">Contact</Link>
               </nav>
             </div>
           )}

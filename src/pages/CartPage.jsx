@@ -90,6 +90,7 @@ const CartPage = () => {
                         <span className="md:hidden text-gray-500 mr-2">Price:</span>
                         ${item.price.toFixed(2)}
                       </div>
+
                       <div className="col-span-3 md:col-span-3 flex justify-center">
                         <div className="flex items-center border border-gray-300 rounded-lg">
                           <button 
